@@ -15,7 +15,7 @@ public class BaseTest {
         System.out.println((driver.getTitle()));
 
         Thread.sleep(2000);
-        WebElement carpi = driver.findElement(By.className("fancybox-item fancybox-close"));
+        WebElement carpi = driver.findElement(By.className("fancybox-close"));
         System.out.println(carpi.getTagName());
         carpi.click();
 
