@@ -25,7 +25,7 @@ public class BaseTest {
     }
     public int stringtoInt(String old)
     {
-        return Integer.parseInt(old.split(" ")[0].replace(".",""));
+        return Integer.parseInt(old.split(" ")[0].replace(".","").split(",")[0]);
     }
 
     public static void main(String args[]) throws InterruptedException {
@@ -56,6 +56,7 @@ public class BaseTest {
             System.out.println("Integer.valueOf(sepet.urunFiyat2):  "+doubleValueAtBasket);
             System.out.println("Integer.valueOf(aramaSayfa.aramaFiyati)*2:  "+doubleValueAtSearch);
         }
+        sepet.sepetTemizle();
 
 
     }

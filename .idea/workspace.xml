@@ -11,11 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbdad5c3-994c-4690-a1fc-ad2d577424e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasketPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasketPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasketPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/deneme/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/deneme/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/BasketPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/BasketPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/deneme/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/deneme/BaseTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,22 +97,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1595600894774">
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1595606948330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595600894774" />
-    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1595600894774">
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595606948330" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1595606948330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595600894774" />
-    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1595600894773">
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595606948330" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1595606948330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595600894773" />
-    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1595600894774">
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595606948330" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1595606948330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595600894774" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595606948330" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1595599165793">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -132,5 +133,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595588837453" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/HomePage.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
